@@ -1,4 +1,6 @@
-Para executar esse projeto é necessário:
+#Aplicativo Web para tradução de IA usando Python e Flask
+
+###Para executar esse projeto é necessário:
 
 1) Ativar o ambiente virtual
 ``.\Scripts\activate``
