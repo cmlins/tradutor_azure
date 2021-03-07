@@ -12,11 +12,9 @@
 https://docs.microsoft.com/pt-br/learn/modules/python-flask-build-ai-web-app/5-exercise-create-translator-service
 
 4) Arquivo .env:  
-``KEY=your_key  
-
-ENDPOINT=your_endpoint  
-
-LOCATION=your_location``  
+> KEY=your_key
+> ENDPOINT=your_endpoint 
+> LOCATION=your_location
 
 5) Em app.py adicionar o import ``request``  
 ``from flask import Flask, render_template, request``  
